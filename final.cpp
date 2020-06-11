@@ -1,5 +1,5 @@
 //final.cpp
-//Seena Abed, CISP 400
+//Seena Abed
 //12/19/19
 
 #include <iostream>
